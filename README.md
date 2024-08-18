@@ -3,7 +3,7 @@
 
 🌱 Graduate Software Developer, learning new tech through [projects](https://www.alicekim.co.nz/#/projects).</br>
 👩‍💻 Studied Web development course at Yoobee Colleges.</br>
-💡 Regulary post on [LinkedIn](https://www.linkedin.com/in/alice-heeyeon-kim/) at least once a week.</br>
+💡 Regulary post on [LinkedIn](https://www.linkedin.com/in/alice-heeyeon-kim/)</br>
 🤓 Currently writing a tech blog on [Medium](https://medium.com/@lovelyalice.kim)</br>
 
 ### 💻 Tech Stack
